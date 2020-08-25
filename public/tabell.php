@@ -10,7 +10,7 @@ Enkel test med tabell
 <table border="1">
 <tr>
 <th>Navn</th>
-<th
+<th>
 >Alder</th>
 </tr>
 <tr>
