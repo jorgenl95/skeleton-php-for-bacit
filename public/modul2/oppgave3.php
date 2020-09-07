@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php 
 $tall = 4400;
-$timer = (int)($tall / 3600); 
+$timer = (int)($tall / 3600);
 $minutter = (int)(($tall / 60) % 60);
 $sekunder = (int)($tall % 60);
 ?>
